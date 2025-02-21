@@ -1,6 +1,4 @@
 import time
-import os
-import sys
 import random
 import textwrap
 import math
@@ -406,7 +404,7 @@ def check_replay(chosen_ingredients, correct_recipe, recipe_name):
        
 
 
-#closes the game on all platforms
+#signinfies game end
 
 
 def close_program():
